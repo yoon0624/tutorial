@@ -1,2 +1,3 @@
 this is sample text.
+using add to register index
 
